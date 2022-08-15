@@ -4,5 +4,42 @@
       "idNivelCurso": 1,
       "descricao": "Teste"
     }
+  ],
+  "TipoCurso": [
+    {
+      "idTipoCurso": 1,
+      "tipocurso": "Normal",
+      "descricao": "Teste"
+    }
+  ],
+  "Curso": [
+    {
+      "idCurso": 1,
+      "curso": "curso Teste",
+      "nome": "nome Teste",
+      "habilitacao": "habilitacao Teste",
+      "titulo": "titulo Teste",
+      "decreto": "decreto Teste",
+      "ativo": "S",
+      "presencial": "S",
+      "idTurno": 1,
+      "idDocente": 1,
+      "idDocenteVice": 2,
+      "idSetor": 1
+    }
+  ],
+  "CursoSS": [
+    {
+      "idCursoSS": 1,
+      "tipoSS": 1,
+      "conceito": "A"
+    }
+  ]
+,
+  "Setor": [
+    {
+      "idSetor": 1,
+      "sigla": "ICE"
+    }
   ]
 }
